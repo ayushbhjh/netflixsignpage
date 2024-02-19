@@ -1,0 +1,80 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  width: 100vw;
+  height: 100vh;
+ background-image: url('https://cdn.neowin.com/news/images/uploaded/2023/05/1683747988_background-size1920x1080-4e1694a6-75aa-4c36-9d4d-7fb6a3102005-bc5318781aad7f5c8520_story.jpg');
+  background-size: cover;
+  margin: 0;
+  position: fixed;
+}
+.nav1 h1{
+  color: red;
+  word-spacing: 1px;
+  font-size: 95px;
+  margin-left: 30px;
+  text-shadow: chartreuse;
+  position: fixed;
+}
+.conatiner{
+  border: 2px solid black;
+  height: 700px;
+  width: 600px;
+  background-color: black;
+  margin-left: 35%;
+  margin-top: 10%;
+}
+.conatiner h3{
+  color: white;
+  font-size: 65px;
+  text-align: center;
+  margin-top: 105px;
+}
+.text1{
+  border: 2px solid red;
+  height: 70px;
+  width: 400px;
+  color: black;
+  font-size: 30px;
+  margin-top: 70px;
+  margin-left: 20%;
+}
+
+.password1{
+  border: 2px solid red;
+  height: 70px;
+  width: 400px;
+  color: black;
+  font-size: 30px;
+  margin-top: 35px;
+  margin-left: 20%;
+}
+.button{
+  border: 2px solid red;
+  height: 70px;
+  width: 300px;
+  color: black;
+  font-size: 30px;
+  margin-top: 35px;
+  margin-left: 30%;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+
+}
+.conatiner p{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 30px;
+}
+.conatiner p a{
+  text-decoration: none;
+  color: white;
+}
+.conatiner p a:hover{
+  border-bottom: 2px solid greenyellow;
+}
+
