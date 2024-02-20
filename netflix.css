@@ -12,7 +12,7 @@
 }
 .nav1 h1{
   color: red;
-  word-spacing: 1px;
+  word-spacing: 3px;
   font-size: 95px;
   margin-left: 30px;
   text-shadow: chartreuse;
@@ -25,6 +25,7 @@
   background-color: black;
   margin-left: 35%;
   margin-top: 10%;
+  position: fixed;
 }
 .conatiner h3{
   color: white;
